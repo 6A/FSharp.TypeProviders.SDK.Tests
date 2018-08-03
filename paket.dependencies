@@ -1,0 +1,4 @@
+source https://www.nuget.org/api/v2
+
+github 6A/FSharp.TypeProviders.SDK src/ProvidedTypes.fsi
+github 6A/FSharp.TypeProviders.SDK src/ProvidedTypes.fs

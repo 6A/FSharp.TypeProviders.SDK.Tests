@@ -1,0 +1,5 @@
+
+GITHUB
+  remote: 6A/FSharp.TypeProviders.SDK
+    src/ProvidedTypes.fs (86fb319437c14d5ce929035e2690066102234a66)
+    src/ProvidedTypes.fsi (86fb319437c14d5ce929035e2690066102234a66)
